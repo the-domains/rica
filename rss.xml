@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Rica]]></title>
         <description><![CDATA[Rica]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/rica/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 30 Mar 2016 22:19:58 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 30 Mar 2016 22:23:39 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/rica/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/656536cb-4f4d-4cad-bac4-7e3476592e2f.jpg">]]></description>
+            <link>https://thegrid.ai/rica/48fa6215-0cb9-4da6-a60f-d1e95f63e484/index.html</link>
+            <guid isPermaLink="false">48fa6215-0cb9-4da6-a60f-d1e95f63e484</guid>
+            <pubDate>Wed, 30 Mar 2016 22:23:37 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1cb15637-458e-4623-a169-498ade91c8fd.jpg">]]></description>
-            <link>undefined5e9c92ed-e013-4c4b-9fd5-46fcd0ec1e55/index.html</link>
+            <link>https://thegrid.ai/rica/5e9c92ed-e013-4c4b-9fd5-46fcd0ec1e55/index.html</link>
             <guid isPermaLink="false">5e9c92ed-e013-4c4b-9fd5-46fcd0ec1e55</guid>
             <pubDate>Wed, 30 Mar 2016 22:19:44 GMT</pubDate>
         </item>
