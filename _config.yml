@@ -1,19 +1,4 @@
-name: Rica
-favicon: null
-layout_spectrum: 0.24861
 typography_spectrum: 0.16409353422932327
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#f6fbfe'
@@ -25,4 +10,23 @@ color:
   lightness: 0.12351676658727229
   saturation: 0.625
   rhythmicContrast: 0.38490786287002265
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.24861
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Rica
+cta:
+  domain: null
+  bucket: null
+  version: null
+navigation:
+  - name: Facebook
+    url: 'https://www.facebook.com/rica.estrada.9'
+    type: external
+favicon: null
 purpose: []
